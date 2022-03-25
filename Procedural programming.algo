@@ -18,6 +18,6 @@ BEGIN
    IF (Ps:=0) THEN
        write ('The two vectors are orthogona')
    ELSE
-       write('The two vectors are orthogona')
+       write('The two vectors are not orthogona')
    END_IF
 END   
